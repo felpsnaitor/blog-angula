@@ -1,5 +1,5 @@
 .container-big-card {
-    width: 500px;
+    width: 450px;
     margin: 0 20px;
 }
 
@@ -11,8 +11,8 @@ a {
 }
 
 .img-big-card > img {
-    width: 500px;
-    min-width: 500px;
+    width: 450px;
+    min-width: 450px;
 
     border-radius: 7%;
     background-color: #fff;
